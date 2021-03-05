@@ -16,8 +16,8 @@
 ### Current Work | `Pathfinding &  Sorting Algorithm`
 <br>
 <p align="center">
-<img src="images/pathfinding.gif" alt="alt text" width="320"/>
-<img src="images/sorting.gif" alt="alt text" width="320"/>
+<img src="images/pathfinding.gif" alt="alt text" width="420"/>
+<img src="images/sorting.gif" alt="alt text" width="420"/>
   </p>
 
 ---
