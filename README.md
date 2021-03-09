@@ -1,7 +1,5 @@
 ### Hi I'm Ali 😊 
-## This page is currently under construction 👷 👌 
 ![Profile views](https://gpvc.arturio.dev/Alawi93)  
-
 ### Interests | `Experience`
 ---
 - **Fullstack Web Development: `MERN-Stack`** ✅
@@ -27,4 +25,4 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alawi93)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-muhammed//)  
 
-
+## This page is currently under construction 👷 👌 
