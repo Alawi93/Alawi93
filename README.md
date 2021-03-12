@@ -1,12 +1,6 @@
 ### Hi I'm Ali 😊 
 ![Profile views](https://gpvc.arturio.dev/Alawi93)  
-### Interests | `Experience`
----
-- **Fullstack Web Development: `MERN-Stack`** ✅
-- **Game Development: `Unity Game Development`** ☐
-- **Application Performance: `Data-Oriented Design`** ✅
-- **Algorithm and Data Structures: `Pathfinding & Sorting Algorithms`** ✅
----
+
 ### Current Work | `Pathfinding &  Sorting Algorithm`
 <br>
 <p align="center">
@@ -14,6 +8,13 @@
 <img src="images/sorting.gif" alt="alt text" width="420"/>
   </p>
   
+---
+### Interests | `Experience`
+---
+- **Fullstack Web Development: `MERN-Stack`** ✅
+- **Game Development: `Unity Game Development`** ☐
+- **Application Performance: `Data-Oriented Design`** ✅
+- **Algorithm and Data Structures: `Pathfinding & Sorting Algorithms`** ✅
 ---
 
 ### Technology used | `Languagues and Tools`
